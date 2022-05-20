@@ -15,7 +15,7 @@ const FooterDiv = styled.div`
 export function Footer() {
   return (
     <FooterDiv>
-      Made by<span><i><b>Takshima Goyal,</b></i></span>&nbsp;<span><i><b>Vibhuti Gupta</b></i></span>&nbsp;and &nbsp;<span><i><b>Yashvi Saxena</b></i></span>&nbsp;
+      Made by&nbsp;<span><i><b>Takshima Goyal,</b></i></span>&nbsp;<span><i><b>Vibhuti Gupta</b></i></span>&nbsp;and &nbsp;<span><i><b>Yashvi Saxena</b></i></span>&nbsp;
     </FooterDiv>
   );
 }
