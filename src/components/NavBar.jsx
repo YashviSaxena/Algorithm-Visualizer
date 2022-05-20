@@ -40,7 +40,7 @@ export function NavBar() {
           alignItems: "center",
         }}
       >
-        <h3>Sorting Algorithms Visualizer</h3>
+        <h3>Algorithms Visualizer</h3>
         
       </div>
       <AppBar position="static" color="default">
